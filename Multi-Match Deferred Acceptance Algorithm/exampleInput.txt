@@ -1,0 +1,16 @@
+# First line: space separated names (or ids) of n candidates
+1 2 3 4 5
+# Second line: space separated names (or ids) of m job openings
+A B C D E
+# n prefs
+A B C D E
+B D E A
+C B E
+D A B C
+E C A B D
+# m prefs
+1 2 4 5
+1 3 4 2 5
+3 1 4 5
+5 1 2 4
+3 2 1 5
